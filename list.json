@@ -606,15 +606,4 @@
         "location": "https://hub.docker.com/r/arm64v8/irssi",
         "type": "docker"
     }
-    {
-        "description": "The IRC client of the future",
-        "repository": "github",
-        "arch": "amd64",
-        "icon": "",
-        "displayName": "twdvbt_xmltv",
-        "name": "twdvbt_xmltv",
-        "version": "master",
-        "location": "https://github.com/wenchen/twdvbt_xmltv",
-        "type": "docker"
-    }
 ]
